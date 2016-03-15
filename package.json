@@ -1,0 +1,12 @@
+{
+  "name": "memento-pattern-example",
+  "version": "1.0.0",
+  "description": "Memento pattern",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bjarne Oeverli",
+  "license": "MIT"
+}
